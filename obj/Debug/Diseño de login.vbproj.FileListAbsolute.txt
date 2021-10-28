@@ -1,0 +1,12 @@
+D:\git\visualbasic\Diseño de login\bin\Debug\Diseño de login.exe
+D:\git\visualbasic\Diseño de login\bin\Debug\Diseño de login.pdb
+D:\git\visualbasic\Diseño de login\bin\Debug\Diseño de login.xml
+D:\git\visualbasic\Diseño de login\obj\Debug\Diseño de login.vbproj.AssemblyReference.cache
+D:\git\visualbasic\Diseño de login\obj\Debug\Diseño_de_login.Resources.resources
+D:\git\visualbasic\Diseño de login\obj\Debug\Diseño de login.vbproj.GenerateResource.cache
+D:\git\visualbasic\Diseño de login\obj\Debug\Diseño de login.vbproj.CoreCompileInputs.cache
+D:\git\visualbasic\Diseño de login\obj\Debug\Diseño de login.exe
+D:\git\visualbasic\Diseño de login\obj\Debug\Diseño de login.xml
+D:\git\visualbasic\Diseño de login\obj\Debug\Diseño de login.pdb
+D:\git\visualbasic\Diseño de login\obj\Debug\Diseño_de_login.LOGIN.resources
+D:\git\visualbasic\Diseño de login\obj\Debug\Diseño_de_login.usuarios.resources
